@@ -21,5 +21,6 @@ This project was developed and tested with the following:
 ## Quick Start Summary:
 1. Update BASE = "toy_dataset" in the notebooks
 2. Run AD_Ratios_Plotting.ipynb (it includes preprocessing)
-3. View the generated plots and metrics
+3. View the generated plots and metrics.
+
 The pipeline is self-contained and will work with the provided toy dataset files.
