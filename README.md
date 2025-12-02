@@ -24,3 +24,9 @@ This project was developed and tested with the following:
 3. View the generated plots and metrics.
 
 The pipeline is self-contained and will work with the provided toy dataset files.
+
+
+This work can be cited at:
+Protein Compositional Ratio Representation (PCRR) Systematically Improves Human Disease Prediction
+Adithya V Madduri, Randall J Ellis, Chirag J Patel
+bioRxiv 2025.11.29.691286; doi: https://doi.org/10.1101/2025.11.29.691286
