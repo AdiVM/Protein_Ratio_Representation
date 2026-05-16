@@ -1,0 +1,3 @@
+{"record_id": 0, "iter_per_learner": 1, "logged_metric": {"pred_time": 0.0021305689382052277}, "trial_time": 97.05622220039368, "wall_clock_time": 143.17487001419067, "validation_loss": 0.1770374637310121, "config": {"C": 1.0}, "learner": "lrl1", "sample_size": 674}
+{"record_id": 1, "iter_per_learner": 4, "logged_metric": {"pred_time": 0.0021819787845221454}, "trial_time": 104.63965177536011, "wall_clock_time": 429.9559841156006, "validation_loss": 0.17623670137110994, "config": {"C": 1.9999999999999998}, "learner": "lrl1", "sample_size": 674}
+{"curr_best_record_id": 1}

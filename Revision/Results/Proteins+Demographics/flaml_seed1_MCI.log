@@ -1,0 +1,2 @@
+{"record_id": 0, "iter_per_learner": 1, "logged_metric": {"pred_time": 0.0013754492375388076}, "trial_time": 9.024720191955566, "wall_clock_time": 16.97855496406555, "validation_loss": 0.39283179929350764, "config": {"n_estimators": 4, "num_leaves": 4, "min_child_samples": 20, "learning_rate": 0.09999999999999995, "log_max_bin": 8, "colsample_bytree": 1.0, "reg_alpha": 0.0009765625, "reg_lambda": 1.0}, "learner": "lgbm", "sample_size": 670}
+{"curr_best_record_id": 0}

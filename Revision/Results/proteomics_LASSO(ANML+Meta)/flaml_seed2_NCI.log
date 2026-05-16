@@ -1,0 +1,4 @@
+{"record_id": 0, "iter_per_learner": 1, "logged_metric": {"pred_time": 0.0003776596078825234}, "trial_time": 29.254132986068726, "wall_clock_time": 32.063146114349365, "validation_loss": 0.3307930818683506, "config": {"C": 1.0}, "learner": "lrl1", "sample_size": 674}
+{"record_id": 1, "iter_per_learner": 2, "logged_metric": {"pred_time": 0.00046338457241448474}, "trial_time": 21.112945079803467, "wall_clock_time": 53.17539095878601, "validation_loss": 0.32842635261990094, "config": {"C": 3.9999999999999987}, "learner": "lrl1", "sample_size": 674}
+{"record_id": 2, "iter_per_learner": 4, "logged_metric": {"pred_time": 0.0004923553740932114}, "trial_time": 65.33049392700195, "wall_clock_time": 142.47347211837769, "validation_loss": 0.3276327018262502, "config": {"C": 15.99999999999999}, "learner": "lrl1", "sample_size": 674}
+{"curr_best_record_id": 2}

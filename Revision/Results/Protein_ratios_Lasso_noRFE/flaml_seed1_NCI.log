@@ -1,0 +1,2 @@
+{"record_id": 0, "iter_per_learner": 1, "logged_metric": {"pred_time": 0.0027302745562880785}, "trial_time": 95.61964011192322, "wall_clock_time": 142.05829405784607, "validation_loss": 0.206128617583638, "config": {"C": 1.0}, "learner": "lrl1", "sample_size": 670}
+{"curr_best_record_id": 0}
