@@ -1,0 +1,5 @@
+Class,Best_AUC_Model,Best_AUC_Value,Best_AP_Model,Best_AP_Value,Best_F1_Model,Best_F1_Value
+MCI,Proteomic Ratios,0.6495,Proteomic Ratios,0.4180,Proteomic Ratios,0.3590
+NCI,Proteomic Ratios,0.7277,Proteomic Ratios,0.7268,Proteomic Ratios,0.6875
+AD,Proteomic Ratios,0.7899,Proteomic Ratios,0.4998,Proteomic Ratios,0.4024
+AD+,Proteomic Ratios,0.7684,Proteomic Ratios,0.3351,Proteomic Ratios,0.1030
